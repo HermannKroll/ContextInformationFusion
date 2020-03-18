@@ -1,0 +1,4 @@
+psycopg2
+nltk
+scikit-learn
+matplotlib
