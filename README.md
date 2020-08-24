@@ -1,5 +1,5 @@
 # Context-Compatible Information Fusion for Knowledge Graphs
-This repository belongs to our TPDL2020 submission, Context-Compatible Information Fusion for Knowledge Graphs.
+This repository belongs to our TPDL2020 publication ***Context-Compatible Information Fusion for Knowledge Graphs***.
 The repository provides our scripts and links to our precomputed data.
 The project builds upon SemMedDB as a medical knowledge graph. Therefore, you need to setup SemMedDB first.
 Besides, all results are reported in an Excel sheet (Experiments on SemMed2019.xlsx).
@@ -37,7 +37,7 @@ To rerun our experiments, you need to setup a python environment.
 ## Setting up Python 
 We provide Jupyter notebooks for our experiments. You can run them in an Jupyter environment with the following packages installed:
 ```
-pip install psycopg2 nltk scikit-learn matplotlib
+pip install psycopg2-binary nltk scikit-learn matplotlib
 ```
 
 ## Library Graph vs Knowledge Graph
