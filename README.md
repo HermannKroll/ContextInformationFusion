@@ -40,7 +40,7 @@ We provide Jupyter notebooks for our experiments. You can run them in an Jupyter
 pip install psycopg2-binary nltk scikit-learn matplotlib
 ```
 
-## Library Graph vs Knowledge Graph
+## Library Graph (Strict Implicit Context) vs Knowledge Graph
 For the first experiment, you need to enter your database credentials for semmeddb in the beginning of the Jupyter notebook. 
 
 ## Context Compatibility
