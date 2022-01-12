@@ -44,7 +44,7 @@ pip install psycopg2-binary nltk scikit-learn matplotlib
 For the first experiment, you need to enter your database credentials for semmeddb in the beginning of the Jupyter notebook. 
 
 ## Context Compatibility
-For the second experiment, you need access to the metadata of PubMed. To bypass setting up a metadata database, you can find our precomputed metadata simiarity values and clusterings at *[OneDrive](https://1drv.ms/u/s!ArDgbq3ak3Zuh5gBfAQQDkrb9_2Zbg?e=jbP0uX)*. Download the zip archiv and unzip it. The files should be stored as an additional directory (inside this repository) called:
+For the second experiment, you need access to the metadata of PubMed. To bypass setting up a metadata database, you can find our precomputed metadata simiarity values and clusterings at *[OneDrive](https://1drv.ms/u/s!ArDgbq3ak3Zuh6Vk4fgAV3edndyRxQ?e=iXtbfH)*. Download the zip archiv and unzip it. The files should be stored as an additional directory (inside this repository) called:
 ```
 preprocessed_context_compatibility
 ```
